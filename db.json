@@ -1,17 +1,24 @@
 {
-  "posts": {
-  "errNo": "0",
-  "errStr": "ok",
-  "data": {
-    "pid": "123",
-    "url": "https://t10.baidu.com/it/u=4268633256,1907608914&fm=76"
-  }
-},
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": {
+		"errNo": "0",
+		"errStr": "ok",
+		"data": {
+			"pid": "123",
+			"url": "https://t10.baidu.com/it/u=4268633256,1907608914&fm=76"
+		}
+	},
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
